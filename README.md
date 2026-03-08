@@ -23,6 +23,10 @@ Computer Science student exploring Python, data analysis, and machine learning.
 - Data Cleaning
 - Exploratory Data Analysis
 - Machine Learning Basics
+## Languages and Tools
+
+python pandas numpy scikit-learn matplotlib seaborn sql git github jupyter notebook excel
+
 
 ---
 
@@ -37,7 +41,7 @@ Computer Science student exploring Python, data analysis, and machine learning.
 ## 📫 Connect With Me
 
 Email: ayeshamasrath0606@gmail.com  
-LinkedIn: YOUR LINK
+LinkedIn:(https://www.linkedin.com/in/ayesha-masrath-a7740934b/)
 
 <!--
 **ayesha-masrath/ayesha-masrath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
