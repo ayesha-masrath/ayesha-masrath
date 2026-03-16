@@ -1,31 +1,29 @@
-<h1 align="center">Hi 👋, I'm Ayesha Masrath</h1>
+<h1 align="center">Hi , I'm Ayesha Masrath</h1>
 
 <p align="center">
-Computer Science student exploring Python, data analysis, and machine learning.
+Computer Science (AI & ML) student interested in technology, programming, and data-driven systems.
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 Final-year **B.Tech CSE (AI & ML)**
-- 📚 Currently learning **Python for Data Analysis and Machine Learning**
-- 📊 Interested in **data-driven problem solving**
-- 🧠 Exploring **machine learning concepts and real-world datasets**
+- 🎓 Final-year **B.Tech in Computer Science (AI & ML)**
+- 💻 Interested in **Python programming, data analysis, and intelligent systems**
+- 📊 Enjoy working with **real-world datasets and analytical problem solving**
+- 📚 Continuously learning through **projects and practical experimentation**
 
 ---
 
-## 🛠 Currently Learning
+## 🔎 Areas of Interest
 
-- Python
-- Pandas
-- NumPy
-- Data Cleaning
-- Exploratory Data Analysis
-- Machine Learning Basics
+- Data Analysis  
+- Machine Learning  
+- Artificial Intelligence Applications  
+- Data Visualization  
+- Problem Solving with Programming  
 
 ---
-
 ## Languages and Tools
 
 <p align="left">
@@ -58,15 +56,31 @@ Computer Science student exploring Python, data analysis, and machine learning.
 
 ---
 
-## 📌 Current Projects
+## 📚 Learning & Exploration
 
-- Smart Grade Prediction System
-- Python Practice Projects
-- Data Analysis Experiments
+- Data Cleaning & Preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Machine Learning Concepts  
+- Working with real-world datasets  
+- Data visualization techniques  
+
+---
+
+## 💡 Approach
+
+I enjoy learning technology by building practical projects and exploring real-world datasets to understand how data can support better decisions.
+
+---
+
+## 📊 GitHub Stats
+
+![Ayesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayesha-masrath&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayesha-masrath&layout=compact)
 
 ---
 
 ## 📫 Connect With Me
 
 Email: **ayeshamasrath0606@gmail.com**  
-LinkedIn: https://www.linkedin.com/in/ayesha-masrath-a7740934b/
+LinkedIn: **https://www.linkedin.com/in/ayesha-masrath-a7740934b/**
